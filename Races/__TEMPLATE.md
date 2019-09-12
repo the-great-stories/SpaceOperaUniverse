@@ -16,4 +16,4 @@
 
 ## Languages spoken
 
-* [Link to language](https://github.com/the-great-stories/SpaceOperaUniverse/blob/master/Languages/<NAME>.md)
+[Link to language](https://github.com/the-great-stories/SpaceOperaUniverse/blob/master/Languages/<NAME>.md)
